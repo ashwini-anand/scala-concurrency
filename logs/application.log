@@ -1,0 +1,6 @@
+2019-07-07 14:57:48,895 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+
+2019-07-07 14:57:49,044 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)
+2019-07-07 15:05:13,627 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-shutdown-hook-1 - Stopping server...
+2019-07-07 15:05:15,454 [WARN] from akka.actor.CoordinatedShutdown in play-dev-mode-akka.actor.default-dispatcher-11 - Task [shutdown-application-dev-mode] failed in phase [service-stop]: Unexpected exception[MatchError: org.apache.logging.log4j.simple.SimpleLoggerContext@228eef56 (of class org.apache.logging.log4j.simple.SimpleLoggerContext)]
